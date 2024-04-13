@@ -1,2 +1,4 @@
 # TerrafromAssociateCertification
-Terraform Code for learning the Terrafrom Associates Certification.
+Terraform Code for learning the Terraform Associates Certification.
+
+There are many different infrastructure tutorials that I will be adding to this.
